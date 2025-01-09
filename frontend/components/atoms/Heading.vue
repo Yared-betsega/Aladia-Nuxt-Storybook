@@ -14,6 +14,6 @@ const headingClass = computed(() => {
     md: 'text-lg',
     lg: 'text-xl',
   };
-  return `${sizes[props.size]} font-semibold mb-2`;
+  return `${sizes[props.size]} font-semibold my-1 max-h-10 overflow-hidden`;
 });
 </script>

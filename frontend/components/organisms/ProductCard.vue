@@ -7,7 +7,7 @@
       <div class="w-full flex justify-center">
         <Image :src="book.imageUrl" :alt="book.title" variant="Product" />
       </div>
-      <div class="self-end">
+      <div class="h-[50%]">
         <ProductDetails
           :title="book?.title"
           :description="book?.description"

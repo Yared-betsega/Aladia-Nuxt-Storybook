@@ -1,11 +1,11 @@
 <template>
-  <div class="flex flex-col">
+  <div class="flex flex-col justify-between  h-full">
     <Heading
       :text="title"
-      size="lg"
-      heading-class="text-white  font-bold mb-2"
+      size="sm"
+      heading-class="text-white  font-bold"
     />
-    <Text class="text-sm text-gray-600">{{ author }}</Text>
+    <Text class="text-sm text-gray-600 italic my-1">Author: {{ author }}</Text>
     <Text class="text-sm text-gray-600">{{ description }}</Text>
     <GenreList :genres="genres" />
     <Button class="text-sm text-gray-600">Add to Cart ${{ price }}</Button>
