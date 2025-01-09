@@ -4,6 +4,7 @@
       v-for="book in books"
       :key="book.id"
       :book="book"
+      display="inline"
     />
   </div>
 </template>
