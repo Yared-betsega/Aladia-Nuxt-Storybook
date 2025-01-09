@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415375471i/119073.jpg",
+    "title": "The Name of the Rose",
+    "Author": "Umberto Eco",
+    "price": 5.40,
+    "rating": 4.14,
+    "description": "The year is 1327. Franciscans in a wealthy Italian abbey are suspected of heresy, and Brother William of Baskerville arrives to investigate. When his delicate mission is suddenly overshadowed by seven bizarre deaths, Brother William turns to the logic of Aristotle, the theology of Aquinas, and the empirical insights of Roger Bacon to find the killer. He collects evidence, deciphers secret symbols and coded manuscripts, and digs into the eerie labyrinth of the abbey (“where the most interesting things happen at night”) armed with a wry sense of humor and a ferocious curiosity.",
+    "Genres": [
+      "Fiction",
+      "Historical Fiction",
+      "Mystery",
+      "Historical",
+      "Literature",
+      "Italy",
+      "Crime"
+    ]
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472027832i/51799.jpg",
+    "title": "The Decameron",
+    "Author": "Giovanni Boccaccio",
+    "price": 4.00,
+    "rating": 3.88,
+    "description": "The Decameron (c.1351) is an entertaining series of one hundred stories written in the wake of the Black Death. The stories are told in a country villa outside the city of Florence by ten young noble men and women who are seeking to escape the ravages of the plague. Boccaccio's skill as a dramatist is masterfully displayed in these vivid portraits of people from all stations in life, with plots that revel in a bewildering variety of human reactions.",
+    "Genres": [
+      "Fiction",
+      "Short Stories",
+      "Classics",
+      "Italian Literature",
+      "Literature",
+      "Italy",
+      "Historical Fiction"
+    ]
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634559146i/84737.jpg",
+    "title": "Zeno's Conscience",
+    "Author": "Italo Svevo",
+    "price": 3.60,
+    "rating": 3.77,
+    "description": "Long hailed as a seminal work of modernism in the tradition of Joyce and Kafka, and now available in a supple new English translation, Italo Svevo’s charming and splendidly idiosyncratic novel conducts readers deep into one hilariously hyperactive and endlessly self-deluding mind. The mind in question belongs to one Zeno Cosini, a neurotic Italian businessman who is writing his confessions at the behest of his psychiatrist. Here are Zeno’s interminable attempts to quit smoking, his courtship of the beautiful yet unresponsive Ada, his unexpected–and unexpectedly happy–marriage to Ada’s homely sister Augusta, and his affair with a shrill-voiced aspiring singer. Relating these misadventures with wry wit and irony, and a perspicacity at once unblinking and compassionate, Zeno’s Conscience is a miracle of psychological realism.",
+    "Genres": [
+      "Fiction",
+      "Italian Literature",
+      "Italy",
+      "Literature",
+      "Novels",
+      "Classics",
+      "20th Century"
+    ]
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1376481466i/625094.jpg",
+    "title": "The Leopard",
+    "Author": "Giuseppe Tomasi di Lampedusa",
+    "price": 7.50,
+    "rating": 4.01,
+    "description": "The Sicilian prince Giuseppe Tomasi Di Lampedusa (1896-1957) died just after writing The Leopard, his only novel. Visconti's film adaptation, starring Alain Delon and Claudia Cardinale, won the Palme d'Or at Cannes in 1963.",
+    "Genres": [
+      "Fiction",
+      "Historical Fiction",
+      "Italy",
+      "Italian Literature",
+      "Literature",
+      "Novels",
+      "Classics"
+    ]
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528312857i/374233.jpg",
+    "title": "If on a Winter’s Night a Traveler",
+    "Author": "Italo Calvino",
+    "price": 5.69,
+    "rating": 4.03,
+    "description": "The real Calvino intersperses 10 different pastiches—stories of menace, spies, mystery, premonition—with explorations of how and why we choose to read, make meanings, and get our bearings or fail to. Meanwhile the Reader and Ludmilla try to reach, and read, each other. If on a Winter's Night is dazzling, vertiginous, and deeply romantic. 'What makes lovemaking and reading resemble each other most is that within both of them times and spaces open, different from measurable time and space.'",
+    "Genres": [
+      "Fiction",
+      "Historical Fiction",
+      "Italy",
+      "Italian Literature",
+      "Literature",
+      "Novels",
+      "Classi"
+    ]
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657540227i/6656.jpg",
+    "title": "The Divine Comedy: Inferno - Purgatorio - Paradiso",
+    "Author": "Dante Alighieri",
+    "price": 10.99,
+    "rating": 4.08,
+    "description": "This Everyman’s Library edition–containing in one volume all three cantos, Inferno, Purgatorio, and Paradiso–includes an introduction by Nobel Prize—winning poet Eugenio Montale, a chronology, notes, and a bibliography. Also included are forty-two drawings selected from Botticelli’s marvelous late-fifteenth-century series of illustrations.",
+    "Genres": [
+      "Poetry",
+      "Fiction",
+      "Literature",
+      "Philosophy",
+      "Fantasy",
+      "Italian Literature",
+      "Italy"
+    ]
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520255019i/15645.jpg",
+    "title": "Inferno",
+    "Author": "Dante Alighieri",
+    "price": 6.99,
+    "rating": 4.08,
+    "description": "Professor Esolen's translation of Dante's Inferno is the best one I have seen, for two reasons. His decision to use unrhymed blank verse allows him to come nearly as close to the meaning of the original as any prose reading could do, and allows him also to avoid the harrowing sacrifices that the demand for rhyme imposes on any translator. And his endnotes and other additions provoke answers to almost any question that could arise about the work.",
+    "Genres": [
+      "Classics",
+      "Poetry",
+      "Fiction",
+      "Literature",
+      "Religion",
+      "Fantasy",
+      "School"
+    ]
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657551524i/12116.jpg",
+    "title": "The Late Mattia Pascal",
+    "Author": "Luigi Pirandello",
+    "price": 6.99,
+    "rating": 4.00,
+    "description": "Mattia Pascal endures a life of drudgery in a provincial town. Then, providentially, he discovers that he has been declared dead. Realizing he has a chance to start over, to do it right this time, he moves to a new city, adopts a new name, and a new course of life—only to find that this new existence is as insufferable as the old one. But when he returns to the world he left behind, it's too late: his job is gone, his wife has remarried. Mattia Pascal's fate is to live on as the ghost of the man he once was.",
+    "Genres": [
+      "Classics",
+      "Fiction",
+      "Italian Literature",
+      "Italy",
+      "Literature",
+      "Novels",
+      "Nobel Prize"
+    ]
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377848580i/1320600.jpg",
+    "title": "Le Jardin des Finzi-Contini",
+    "Author": "Giorgio Bassani",
+    "price": 5.99,
+    "rating": 3.78,
+    "description": "Combien d'années s'est-il écoulé depuis ce lointain après-midi de juin ? Plus de trente. Pourtant, si je ferme les yeux, Micòl Finzi-Contini est toujours là, accoudée au mur d'enceinte de son jardin, me regardant et me parlant. En 1929, elle n'était guère plus qu'une enfant, une fillette de treize ans maigre et blonde avec de grands yeux clairs, magnétiques. Et moi, j'étais un jeune garçon en culotte courte, très bourgeois et très vaniteux, qu'un petit ennui scolaire suffisait à jeter dans le désespoir le plus puéril. Nous nous regardions fixement l'un l'autre. Au-dessus d'elle, le ciel était bleu et compact, un ciel chaud et déjà estival, sans le moindre nuage. Rien ne pourrait le changer, ce ciel, et rien, effectivement, ne l'a change, du moins dans le souvenir.",
+    "Genres": [
+      "Fiction",
+      "Classics",
+      "Italy",
+      "Italian Literature",
+      "Historical Fiction",
+      "Holocaust",
+      "Novels"
+    ]
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377848580i/1320600.jpg",
+    "title": "Le Jardin des Finzi-Contini",
+    "Author": "Giorgio Bassani",
+    "price": 5.6,
+    "rating": 3.78,
+    "description": "Combien d'années s'est-il écoulé depuis ce lointain après-midi de juin ? Plus de trente. Pourtant, si je ferme les yeux, Micòl Finzi-Contini est toujours là, accoudée au mur d'enceinte de son jardin, me regardant et me parlant. En 1929, elle n'était guère plus qu'une enfant, une fillette de treize ans maigre et blonde avec de grands yeux clairs, magnétiques. Et moi, j'étais un jeune garçon en culotte courte, très bourgeois et très vaniteux, qu'un petit ennui scolaire suffisait à jeter dans le désespoir le plus puéril. Nous nous regardions fixement l'un l'autre. Au-dessus d'elle, le ciel était bleu et compact, un ciel chaud et déjà estival, sans le moindre nuage. Rien ne pourrait le changer, ce ciel, et rien, effectivement, ne l'a change, du moins dans le souvenir.",
+    "Genres": [
+      "Fiction",
+      "Classics",
+      "Italy",
+      "Italian Literature",
+      "Historical Fiction",
+      "Holocaust",
+      "Novels"
+    ]
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434216390i/10377129.jpg",
+    "title": "Se questo è un uomo",
+    "Author": "Primo Levi",
+    "price": 4.99,
+    "rating": 4.34,
+    "description": "Scritto fra la fine del 1945 e l’inizio del 1947, quindi immediatamente a ridosso dei fatti narrati, Se questo è un uomo è prima di tutto il resoconto minuzioso e asciutto, la cronaca sommessa e a volte volutamente dimessa, di un’esperienza estrema: un anno trascorso da Primo Levi nel lager di Auschwitz, vittima e testimone della massima quota di orrore che il XX secolo abbia prodotto. Ed è un orrore che risalta in tutta la sua evidenza “naturale”, proprio per il fermo rifiuto da parte dell’autore di ogni forma di amplificazione retorica, di ogni pur legittima “finzione” letteraria; un orrore nudo e crudo, e totalmente autentico: tanto più, perciò, terrorizzante, tanto più ineludibile e non esorcizzabile.",
+    "Genres": [
+      "Nonfiction",
+      "History",
+      "Holocaust",
+      "Memoir",
+      "Biography",
+      "World War II",
+      "War"
+    ]
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385193032i/38154.jpg",
+    "title": "Orlando Furioso",
+    "Author": "Ludovico Ariosto",
+    "price": 7.99,
+    "rating": 4.04,
+    "description": "The only unabridged prose translation of Ariosto's Orlando Furioso - a witty parody of the chivalric legends of Charlemagne and the Saracen invasion of France - this version faithfully recaptures the entire narrative and the subtle meanings behind it.",
+    "Genres": [
+      "Poetry",
+      "Classics",
+      "Italian Literature",
+      "Fiction",
+      "Fantasy",
+      "Epic",
+      "Literature"
+    ]
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644754450i/65211.jpg",
+    "title": "Christ Stopped at Eboli: The Story of a Year",
+    "Author": "Carlo Levi",
+    "price": 8.99,
+    "rating": 4.11,
+    "description": "It was to Lucania, a desolate land in southern Italy, that Carlo Levi―a doctor, painter, philosopher, and man of letters―was confined as a political prisoner because of his opposition to Italy's Fascist government at the start of the Ethiopian war in 1935. While there, Levi reflected on the harsh landscape and its inhabitants, peasants who lived the same lives their ancestors had, constantly fearing black magic and the near presence of death. In so doing, Levi offered a starkly beautiful and moving account of a place and a people living outside the boundaries of progress and time.",
+    "Genres": [
+      "Italy",
+      "Nonfiction",
+      "Italian Literature",
+      "History",
+      "Memoir",
+      "Classics",
+      "Travel"
+    ]
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606476445i/566328.jpg",
+    "title": "The Betrothed",
+    "Author": "Alessandro Manzoni",
+    "price": 9.99,
+    "rating": 3.86,
+    "description": "Set in Lombardy during the Spanish occupation of the late 1620s, The Betrothed tells the story of two young lovers, Renzo and Lucia, prevented from marrying by the petty tyrant Don Rodrigo, who desires Lucia for himself. Forced to flee, they are then cruelly separated, and must face many dangers including plague, famine and imprisonment, and confront a variety of strange characters - the mysterious Nun of Monza, the fiery Father Cristoforo and the sinister 'Unnamed' - in their struggle to be reunited. A vigorous portrayal of enduring passion, The Betrothed's exploration of love, power and faith presents a whirling panorama of seventeenth-century Italian life and is one of the greatest European historical novels.",
+    "Genres": [
+      "Classics",
+      "Fiction",
+      "Italian Literature",
+      "Historical Fiction",
+      "Italy",
+      "Literature",
+      "Romance"
+    ]
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396645125i/17841.jpg",
+    "title": "Foucault’s Pendulum",
+    "Author": "Umberto Eco",
+    "price": 5.99,
+    "rating": 3.91,
+    "description": "Three clever editors (who have spent altogether too much time reviewing crackpot manuscripts on the occult by fanatics and dilettantes) decide to have a little fun. They are inspired by an extraordinary fable they heard years before from a suspiciously natty colonel, who claimed to know of a mystic source of power greater than atomic energy.",
+    "Genres": [
+      "Fiction",
+      "Historical Fiction",
+      "Mystery",
+      "Literature",
+      "Classics",
+      "Italian Literature",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442465089i/6613956.jpg",
+    "title": "The Solitude of Prime Numbers",
+    "Author": "Paolo Giordano",
+    "price": 3.99,
+    "rating": 3.64,
+    "description": "A bestselling international literary sensation about whether a 'prime number' can ever truly connect with someone else. A prime number can only be divided by itself or by one—it never truly fits with another. Alice and Mattia, both 'primes,' are misfits who seem destined to be alone. Haunted by childhood tragedies that mark their lives, they cannot reach out to anyone else. When Alice and Mattia meet as teenagers, they recognize in each other a kindred, damaged spirit.",
+    "Genres": [
+      "Fiction",
+      "Contemporary",
+      "Italian Literature",
+      "Italy",
+      "Novels",
+      "Young Adult",
+      "Literature"
+    ]
+  },
+  {
+    "id": 16,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355152583i/9214865.jpg",
+    "title": "Il Principe Di Niccolo Macchiavelli Cittadino E Segretario Figrentino: E La Mente Di Un Uomo Di Stato",
+    "Author": "Niccolò Macchiavelli",
+    "price": 11.55,
+    "rating": 3.84,
+    "description": "This Book Is In Italian.",
+    "Genres": [
+      "Philosophy",
+      "Nonfiction",
+      "Politics",
+      "History",
+      "Political Science",
+      "Literature",
+      "Italy"
+    ]
+  }
+]

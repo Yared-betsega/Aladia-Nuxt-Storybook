@@ -3,10 +3,11 @@
     <Heading
       :text="title"
       size="lg"
-      heading-class="text-white text-xl font-bold mb-2"
+      heading-class="text-white  font-bold mb-2"
     />
     <Text class="text-sm text-gray-600">{{ description }}</Text>
-    <Text class="text-lg font-semibold">${{ price }}</Text>
+    <Text class="text-sm text-gray-600">{{ author }}</Text>
+    <Text class="text-sm text-gray-600">${{ price }}</Text>
   </div>
 </template>
 
@@ -20,6 +21,10 @@ export default {
       required: true,
     },
     description: {
+      type: String,
+      required: true,
+    },
+    author: {
       type: String,
       required: true,
     },
