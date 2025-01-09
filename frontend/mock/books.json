@@ -8,6 +8,8 @@
     "rating": 4.14,
     "description": "The year is 1327. Franciscans in a wealthy Italian abbey are suspected of heresy, and Brother William of Baskerville arrives to investigate. When his delicate mission is suddenly overshadowed by seven bizarre deaths, Brother William turns to the logic of Aristotle, the theology of Aquinas, and the empirical insights of Roger Bacon to find the killer. He collects evidence, deciphers secret symbols and coded manuscripts, and digs into the eerie labyrinth of the abbey (“where the most interesting things happen at night”) armed with a wry sense of humor and a ferocious curiosity.",
     "Genres": [
+      "Fiction",
+      "Historical Fiction",
       "Mystery",
       "Historical",
       "Literature",
@@ -128,7 +130,7 @@
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657551524i/12116.jpg",
     "title": "The Late Mattia Pascal",
     "Author": "Luigi Pirandello",
-    "price": 6.99,
+    "price": 5.55,
     "rating": 4.00,
     "description": "Mattia Pascal endures a life of drudgery in a provincial town. Then, providentially, he discovers that he has been declared dead. Realizing he has a chance to start over, to do it right this time, he moves to a new city, adopts a new name, and a new course of life—only to find that this new existence is as insufferable as the old one. But when he returns to the world he left behind, it's too late: his job is gone, his wife has remarried. Mattia Pascal's fate is to live on as the ghost of the man he once was.",
     "Genres": [
@@ -147,24 +149,6 @@
     "title": "Le Jardin des Finzi-Contini",
     "Author": "Giorgio Bassani",
     "price": 5.99,
-    "rating": 3.78,
-    "description": "Combien d'années s'est-il écoulé depuis ce lointain après-midi de juin ? Plus de trente. Pourtant, si je ferme les yeux, Micòl Finzi-Contini est toujours là, accoudée au mur d'enceinte de son jardin, me regardant et me parlant. En 1929, elle n'était guère plus qu'une enfant, une fillette de treize ans maigre et blonde avec de grands yeux clairs, magnétiques. Et moi, j'étais un jeune garçon en culotte courte, très bourgeois et très vaniteux, qu'un petit ennui scolaire suffisait à jeter dans le désespoir le plus puéril. Nous nous regardions fixement l'un l'autre. Au-dessus d'elle, le ciel était bleu et compact, un ciel chaud et déjà estival, sans le moindre nuage. Rien ne pourrait le changer, ce ciel, et rien, effectivement, ne l'a change, du moins dans le souvenir.",
-    "Genres": [
-      "Fiction",
-      "Classics",
-      "Italy",
-      "Italian Literature",
-      "Historical Fiction",
-      "Holocaust",
-      "Novels"
-    ]
-  },
-  {
-    "id": 9,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377848580i/1320600.jpg",
-    "title": "Le Jardin des Finzi-Contini",
-    "Author": "Giorgio Bassani",
-    "price": 5.6,
     "rating": 3.78,
     "description": "Combien d'années s'est-il écoulé depuis ce lointain après-midi de juin ? Plus de trente. Pourtant, si je ferme les yeux, Micòl Finzi-Contini est toujours là, accoudée au mur d'enceinte de son jardin, me regardant et me parlant. En 1929, elle n'était guère plus qu'une enfant, une fillette de treize ans maigre et blonde avec de grands yeux clairs, magnétiques. Et moi, j'étais un jeune garçon en culotte courte, très bourgeois et très vaniteux, qu'un petit ennui scolaire suffisait à jeter dans le désespoir le plus puéril. Nous nous regardions fixement l'un l'autre. Au-dessus d'elle, le ciel était bleu et compact, un ciel chaud et déjà estival, sans le moindre nuage. Rien ne pourrait le changer, ce ciel, et rien, effectivement, ne l'a change, du moins dans le souvenir.",
     "Genres": [
@@ -301,6 +285,613 @@
       "Political Science",
       "Literature",
       "Italy"
+    ]
+  },
+  {
+    "id": 17,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657393504i/27834741.jpg",
+    "title": "Min fantastiska väninna",
+    "Author": "Elena Ferrante",
+    "price": 10.55,
+    "rating": 4.05,
+    "description": "I en hyreskasern nära landsvägen i femtiotalets Neapel växer de båda flickorna Elena Greco och Lila Cerrullo upp och blir vänner för livet. Det är efterkrigstid, nödår och våldet präglar fortfarande Italien i form av lönnmord och godtyckliga avrättningar. Lila är den självklara ledaren, den snabbfotade, den våghalsiga, den kvicktänka och den elaka. Det är också Lila som slår Elena ur brädet som skolans bästa elev, hon har lärt sig läsa själv och kommer etta på alla prov. Skolgången utgör ett löfte om en bättre framtid för dem båda, men Lila, dotter till skomakaren Fernando och hans hustru som båda är analfabeter, är den som tvingas ge upp studierna medan Elenas far, som är vaktmästare i stadshuset, ser till att dottern får fortsätta att gå i skolan.",
+    "Genres": [
+      "Fiction",
+      "Historical Fiction",
+      "Italy",
+      "Literary Fiction",
+      "Audiobook",
+      "Italian Literature",
+      "Contemporary"
+    ]
+  },
+  {
+    "id": 18,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388460843i/875623.jpg",
+    "title": "Jerusalem Delivered",
+    "Author": "Torquato Tasso",
+    "price": 8.66,
+    "rating": 3.94,
+    "description": "Arguably the greatest Italian poet after Dante, Torquato Tasso was born in Sorrento in 1544 and died in Rome in 1595, having served as the court poet in Ferrara, been confined for years in a madhouse after attacking a servant with a knife, and composed one of the great works of Renaissance literature.",
+    "Genres": [
+      "Poetry",
+      "Classics",
+      "Italian Literature",
+      "Fiction",
+      "Italy",
+      "Epic",
+      "Literature"
+    ]
+  },
+  {
+    "id": 19,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347467591i/32812.jpg",
+    "title": "Paradiso",
+    "Author": "Dante Alighieri",
+    "price": 12.66,
+    "rating": 3.95,
+    "description": "Dorothy L. Sayers's landmark translation follows Dante's terza rima stanza's and brings his poetry vividly to life. Her work was completed after her death by Barbara Reynolds, who provides a foreword on the importance of the translation and an introduction on Dante's view of Heaven. This edition also includes a new foreword, updated further reading, notes, appendices, a glossary, diagrams and genealogical tables.",
+    "Genres": [
+      "Classics",
+      "Poetry",
+      "Fiction",
+      "Literature",
+      "Religion",
+      "Italian Literature",
+      "Medieval"
+    ]
+  },
+  {
+    "id": 20,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348687775i/19164.jpg",
+    "title": "The Divine Comedy of Dante Alighieri, Volume 2: Purgatorio",
+    "Author": "Dante Alighieri",
+    "price": 12.66,
+    "rating": 3.95,
+    "description": "No description available ",
+    "Genres": [
+      "Classics",
+      "Poetry",
+      "Fiction",
+      "Literature",
+      "Religion",
+      "Italian Literature",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 21,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1504075208i/6059070.jpg",
+    "title": "The Adventures of Pinocchio",
+    "Author": "Carlo Collodi",
+    "price": 5.66,
+    "rating": 3.84,
+    "description": "Story of Pinocchio with pictures.",
+    "Genres": [
+      "Classics",
+      "Fiction",
+      "Fantasy",
+      "Childrens",
+      "Italian Literature",
+      "Adventure",
+      "Italy"
+    ]
+  },
+  {
+    "id": 22,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606823551i/6181.jpg",
+    "title": "If This Is a Man • The Truce",
+    "Author": "Primo Levi",
+    "price": 14.66,
+    "rating": 4.54,
+    "description": "'With the moral stamina and intellectual poise of a twentieth-century Titan, this slightly built, dutiful, unassuming chemist set out systematically to remember the German hell on earth, steadfastly to think it through, and then to render it comprehensible in lucid, unpretentious prose. He was profoundly in touch with the minutest workings of the most endearing human events and with the most contemptible. What has survived in Levi's writing isn't just his memory of the unbearable, but also, in The Periodic Table and The Wrench, his delight in what made the world exquisite to him. He was himself a magically endearing man, the most delicately forceful enchanter I've ever known' - Philip Roth.",
+    "Genres": [
+      "Nonfiction",
+      "History",
+      "Holocaust",
+      "Biography",
+      "Memoir",
+      "Classics",
+      "War"
+    ]
+  },
+  {
+    "id": 23,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1177743099i/730165.jpg",
+    "title": "Le Baron perché",
+    "Author": "Italo Calvino",
+    "price": 11.76,
+    "rating": 4.02,
+    "description": "Monté à douze ans dans les arbres, Côme, baron du Rondeau, décide de ne plus jamais en descendre. Nous sommes en 1770. Des années plus tard, toujours perché, il séduira une marquise fantasque et recevra Napoléon en grande pompe. Autoportrait, conte philosophique, Le Baron perché est une éblouissante invention littéraire, où Côme circule au milieu des yeuses comme Calvino dans les lignes.",
+    "Genres": [
+      "Fiction",
+      "Italian Literature",
+      "Italy",
+      "Fantasy",
+      "Literature",
+      "Magical Realism",
+      "Novels"
+    ]
+  },
+  {
+    "id": 24,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446026837i/1389743.jpg",
+    "title": "I Malavoglia",
+    "Author": "Giovanni Verga",
+    "price": 7.56,
+    "rating": 3.46,
+    "description": "Nei Malavoglia (1881) Verga si immerge nella realtà locale di un paese siciliano, Aci Trezza, e racconta la semplice e rissosa quotidianità in cui vivono i Toscano, detti appunto i Malavoglia. Avvertendo come poco espressive le realtà borghesi, Verga cerca di rompere l'impianto romanzesco classico, reinventando le regole del gioco narrativo per dare spazio alla coralità dei personaggi, ritratti nella loro vitale specificità. Questa edizione mette in luce la storia e la formazione del testo attraverso i successivi progetti e abbozzi dell'autore. L'ampio commento a piè di pagina, oltre a spiegazioni letterali e notazioni intertestuali, sottolinea l'organizzazione delle sequenze e la funzione dei motivi, individua le voci principali del romanzo e i controcanti interni, fornisce gli elementi per comprendere i congegni della macchina narrativa.",
+    "Genres": [
+      "Classics",
+      " Italian Literature",
+      "Fiction",
+      "Italy",
+      "Novels",
+      "School",
+      "Literature"
+    ]
+  },
+  {
+    "id": 25,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388199785i/12117.jpg",
+    "title": "One, No One, and One Hundred Thousand",
+    "Author": "Luigi Pirandello",
+    "price": 9.88,
+    "rating": 4.04,
+    "description": "The great Pirandello's (1867-1936) 1926 novel, previously published here in 1933 in another translation, synthesizes the themes and personalities that illuminate such dramas as Six Characters in Search of an Author. Vitangelo Moscarda ``loses his reality'' when his wife cavalierly informs him that his nose tilts to the right; suddenly he realizes that ``for others I was not what till now, privately, I had imagined myself to be,'' and that, consequently, his identity is evanescent, based purely on the shifting perceptions of those around him. Thus he is simultaneously without a self--``no one''--and the theater for myriad selves--``one hundred thousand.'' In a crazed search for an identity independent of others' preconceptions, Moscarda careens from one disaster to the next and finds his freedom even as he is declared insane.",
+    "Genres": [
+      "Literature",
+      "Psychology",
+      "Audiobook",
+      "Literary Fiction",
+      "20th Century",
+      "Nonfiction",
+      "Unfinished"
+    ]
+  },
+  {
+    "id": 26,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657546771i/596986.jpg",
+    "title": "That Awful Mess on the Via Merulana",
+    "Author": "Carlo Emilio Gadda",
+    "price": 6.75,
+    "rating": 3.61,
+    "description": "In a large apartment house in the center of Rome, two crimes are committed within a matter of days: a burglary, in which a good deal of money and precious jewels are taken, and a murder, as a young woman whose husband is out of town is found with her throat cut. Called in to investigate, melancholy Detective Ciccio, a secret admirer of the murdered woman and a friend of her husband’s, discovers that almost everyone in the apartment building is somehow involved in the case, and with each new development the mystery only deepens and broadens. Gadda’s sublimely different detective story presents a scathing picture of fascist Italy while tracking the elusiveness of the truth, the impossibility of proof, and the infinite complexity of the workings of fate, showing how they come into conflict with the demands of justice and love.",
+    "Genres": [
+      "Fiction",
+      "Italy",
+      "Italian Literature",
+      "Classics",
+      "Mystery",
+      "Crime",
+      "Literature"
+    ]
+  },
+  {
+    "id": 27,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1318520374i/2419122.jpg",
+    "title": "The Viceroys",
+    "Author": "Federico De Roberto",
+    "price": 3.99,
+    "rating": 4.16,
+    "description": "The Viceroys tells the story of a noble family of Catania, of Spanish origins. This family, the Uzeda princes of Francalanza, were during the previous Spanish rule 'Vicerè' (that is, they represented the monarch). The story follows the private history of the Uzedas during the last year of Bourbon domination in the kingdom of Two Sicilies and the first decades of Regno d'Italia.",
+    "Genres": [
+      "Classics",
+      "Fiction",
+      "Italian Literature",
+      "Italy",
+      "Historical Fiction",
+      "19th Century",
+      "Historical Romance"
+    ]
+  },
+  {
+    "id": 28,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657394110i/30038563.jpg",
+    "title": "Hennes nya namn",
+    "Author": "Elena Ferrante",
+    "price": 12.49,
+    "rating": 4.45,
+    "description": "Del två i Elena Ferrantes romansvit om de båda barndomsvännerna Lila och Elena tar vid där den första delen slutade. Lilas äktenskap med charkuterihandlaren Stefano Carracci visar sig redan på bröllopsnatten katastrofalt och Lila försöker att med alla medel ta sig ur det. När hon av hälsoskäl skickas till ön Ischia för en sommarvistelse övertalar hon Elena att följa med som betald sällskapsdam, men vistelsen får oanade följde för dem båda och inverkar drastiskt på deras framtida liv.",
+    "Genres": [
+      "Fiction",
+      "Historical Fiction",
+      "Italy",
+      "Italian Literature",
+      "Literary Fiction",
+      "Audiobook",
+      "Contemporary"
+    ]
+  },
+  {
+    "id": 29,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332862372i/540526.jpg",
+    "title": "Le confessioni d'un Italiano",
+    "Author": "Ippolito Nievo",
+    "price": 12.99,
+    "rating": 3.90,
+    "description": "Compiuto da Nievo nel 1858, il romanzo uscì postumo nel 1867 e si impose subito ai lettori italiani. L'ottantenne Carlo Altoviti ripercorre la propria esistenza dall'infanzia quasi magica nel castello di Fratta, alla maturità gravata dalla malattia e dall'esilio londinese. Intrecciata alla vicenda personale scorre la storia del nostro Risorgimento: un'affresco dentro il quale si muove una galleria animatissima di personaggi tra cui spicca la figura appassionata dell'amata Pisana. Uno dei romanzi più belli della letteratura italiana, qui presentato in edizione critica e con un vasto commento.",
+    "Genres": [
+      "Classics",
+      "Italian Literature",
+      "Italy",
+      "Fiction",
+      "19th Century",
+      "Historical Fiction",
+      "Historical"
+    ]
+  },
+  {
+    "id": 30,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1343064947i/13586707.jpg",
+    "title": "My Brilliant Friend",
+    "Author": "Elena Ferrante",
+    "price": 14.79,
+    "rating": 4.05,
+    "description": "The story begins in the 1950s, in a poor but vibrant neighborhood on the outskirts of Naples. Growing up on these tough streets the two girls learn to rely on each other ahead of anyone or anything else. As they grow, as their paths repeatedly diverge and converge, Elena and Lila remain best friends whose respective destinies are reflected and refracted in the other. They are likewise the embodiments of a nation undergoing momentous change. Through the lives of these two women, Ferrante tells the story of a neighborhood, a city, and a country as it is transformed in ways that, in turn, also transform the relationship between her protagonists, the unforgettable Elena and Lila.",
+    "Genres": [
+      "Fiction",
+      "Historical Fiction",
+      "Italy",
+      "Literary Fiction",
+      "Audiobook",
+      "Italian Literature",
+      "Contemporary"
+    ]
+  },
+  {
+    "id": 31,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1337872771i/1720208.jpg",
+    "title": "La tregua",
+    "Author": "Primo Levi",
+    "price": 0.00,
+    "rating": 4.28,
+    "description": "'La tregua', seguito di 'Se questo è un uomo', è considerato da molti il capolavoro di Levi: diario del viaggio verso la libertà dopo l'internamento nel Lager nazista, questo libro, più che una semplice rievocazione biografica, è uno straordinario romanzo picaresco. L'avventura movimentata e struggente tra le rovine dell'Europa liberata - da Auschwitz attraverso la Russia, la Romania, l'Ungheria, l'Austria fino a Torino - si snoda in un itinerario tortuoso, punteggiato di incontri con persone appartenenti a civiltà sconosciute, e vittime della stessa guerra. L'epopea di un'umanità ritrovata dopo il limite estremo dell'orrore e della miseria.",
+    "Genres": [
+      "Nonfiction",
+      "History",
+      "Memoir",
+      "Holocaust",
+      "Italian Literature",
+      "Biography",
+      "Classics"
+    ]
+  },
+  {
+    "id": 32,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542734953i/18833599.jpg",
+    "title": "Sostiene Pereira",
+    "Author": "Antonio Tabucchi",
+    "price": 9.99,
+    "rating": 4.19,
+    "description": "Agosto 1938. Un momento tragico della storia d'Europa, sullo sfondo del salazarismo portoghese, del fascismo italiano e della guerra civile spagnola, nel racconto di Pereira, un testimone preciso che rievoca il mese cruciale della sua vita. Chi raccoglie la testimonianza di Pereira, redatta con la logica stringente dei capitoli del romanzo, impeccabilmente aperti e chiusi dalla formula da verbale che ne costituisce il titolo: Sostiene Pereira? Questo non è detto, ma Pereira, un vecchio giornalista responsabile della pagina culturale del 'Lisboa' (mediocre giornale del pomeriggio) affascina il lettore per le sue contraddizioni e per il suo modo di 'non' essere un eroe.",
+    "Genres": [
+      "Fiction",
+      "Italian Literature",
+      "Portugal",
+      "Historical Fiction",
+      "Italy",
+      "Novels",
+      "Literature"
+    ]
+  },
+  {
+    "id": 33,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347477972i/9701194.jpg",
+    "title": "I Promessi Sposi",
+    "Author": "Alessandro Manzoni",
+    "price": 0.99,
+    "rating": 3.86,
+    "description": "I promessi sposi è un romanzo storico di Alessandro Manzoni. Assieme alle Confessioni di un italiano di Ippolito Nievo è considerato il più importante della letteratura italiana prima dell'unità nazionale. Fu pubblicato in una prima versione nel 1827; rivisto in seguito dallo stesso autore, soprattutto nel linguaggio, fu ripubblicato nella versione definitiva fra il 1840 e il 1841.",
+    "Genres": [
+      "Classics",
+      "Fiction",
+      "Italian Literature",
+      "Historical Fiction",
+      "Italy",
+      "Literature",
+      "Romance"
+    ]
+  },
+  {
+    "id": 34,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348285224i/7960968.jpg",
+    "title": "Canti",
+    "Author": "Giacomo Leopardi",
+    "price": 11.99,
+    "rating": 4.39,
+    "description": "A New York Times Notable Book for 2011 Giacomo Leopardi is Italy's greatest modern poet, the first European writer to portray and examine the self in a way that feels familiar to us today. A great classical scholar and patriot, he explored metaphysical loneliness in entirely original ways. Though he died young, his influence was enormous, and it is no exaggeration to say that all modern poetry, not only in Italian, derives in some way from his work. Leopardi's poetry is notoriously difficult to translate, and he has been less well known to English-language readers than his central significance for his own culture might suggest. Now Jonathan Galassi, whose translations of Eugenio Montale have been widely acclaimed, has produced a strong, fresh, direct version of this great poet that offers English-language readers a new approach to Leopardi. Galassi has contributed an informative introduction and notes that provide a sense of Leopardi's sources and ideas. This is an essential book for anyone who wants to understand the roots of modern lyric poetry.",
+    "Genres": [
+      "Poetry",
+      "Italian Literature",
+      "Classics",
+      "Italy",
+      "Fiction",
+      "Philosophy",
+      "Literature"
+    ]
+  },
+  {
+    "id": 35,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662285675i/66878.jpg",
+    "title": "The Little World of Don Camillo",
+    "Author": "Giovannino Guareschi",
+    "price": 10.85,
+    "rating": 4.21,
+    "description": "This tragicomical stories, often politically or socially charged, mostly situated in a fictional village on the Po called Boscaccio, in the period immediately after World War II, paint a clear picture of the post-war Italy. In this period the Italian Communist Party is very strong, but the Second World War and fascism are still vividly remembered. Boscaccio has a communist mayor named Peppone. He wants to realise the communist ideals, and the Roman Catholic priest Don Camillo is desperately trying to prevent this. But despite their different views these men can count on each other in the fight against social injustice and abuses.",
+    "Genres": [
+      "Fiction",
+      "Humor",
+      "Classics",
+      "Italy",
+      "Short Stories",
+      "Italian Literature",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 36,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411112189i/7312791.jpg",
+    "title": "Diceria dell'untore",
+    "Author": "Gesualdo Bufalino",
+    "price": 8.99,
+    "rating": 4.02,
+    "description": "Nel 1946, in un sanatorio della Conca d'oro - castello d'Atlante e campo di sterminio - alcuni singolari personaggi, reduci dalla guerra, e presumibilmente inguaribili, duellano debolmente con se stessi e con gli altri, in attesa della morte. Lunghi duelli di gesti e di parole; di parole soprattutto: febbricitanti, tenere, barocche - a gara con il barocco di una terra che ama l'iperbole e l'eccesso. Tema dominante, la morte: e si dirama sottilmente, si mimetizza, si nasconde, svaria, musicalmente riappare. E questo sotto i drappeggi di una scrittura in bilico fra strazio e falsetto, e in uno spazio che è sempre al di qua o al di là della storia - e potrebbe anche simulare un palcoscenico o la nebbia di un sogno...",
+    "Genres": [
+      "Fiction",
+      "Italian Literature",
+      "Italy",
+      "Classics",
+      "Novels",
+      "Literature",
+      "Historical Fiction"
+    ]
+  },
+  {
+    "id": 37,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348977611i/510091.jpg",
+    "title": "The Story of My Life",
+    "Author": "Giacomo Casanova",
+    "price": 4.99,
+    "rating": 3.79,
+    "description": "Seducer, gambler, necromancer, swindler, swashbuckler, poet, self-made gentleman, bon vivant, Giacomo Casanova was not only the most notorious lover of the Western world, but a supreme story teller. He lived a life stranger than most fictions, and the tale of his own adventures is his most compelling story, and one that remained unfinished at the time of his death. This new selection contains all the highlights of Casanova's life: his youth in Venice as a precocious ecclesiastic; his dabbling in the occult; his imprisonment and thrilling escape; and his amorous conquests, ranging from noblewomen to nuns.",
+    "Genres": [
+      "Classics",
+      "Biography",
+      "Nonfiction",
+      "History",
+      "Memoir",
+      "Italian Literature",
+      "18th Century"
+    ]
+  },
+  {
+    "id": 38,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328728905i/1010397.jpg",
+    "title": "Last Letters of Jacopo Ortis",
+    "Author": "Ugo Foscolo",
+    "price": 4.86,
+    "rating": 3.45,
+    "description": "Written as an epistolary monologue, Last Letters of Jacopo Ortis is a compelling portrayal of a troubled mind. Published here for the first time in the English language, it is presented with Foscolo's highly acclaimed poem, Of Tombs. Banished from his homeland and from the woman he loves, Jacopo Ortis lives with the insufferable feelings of disillusionment and betrayal. Gone are his youthful dreams of literary glory, and in their place only his embittered laughter at fortune, at men, and at God. In the anguish of his state he feels himself compelled to make one final, titanic, and tragic gesture to the rulers of his age.",
+    "Genres": [
+      "Classics",
+      "Fiction",
+      "Italian Literature",
+      "Italy",
+      "School",
+      "Literature",
+      "Novels"
+    ]
+  },
+  {
+    "id": 39,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1266547429i/412230.jpg",
+    "title": "Mastro-don Gesualdo: Edizione critica",
+    "Author": "Giovanni Verga",
+    "price": 6.64,
+    "rating": 3.47,
+    "description": "Chi è il vero Gesualdo? L'umile popolano diventato proprietario ma pur sempre 'mastro', cioè legato ai suoi beni dal lavoro manuale, o il 'don' che allude a un privilegio di classe, che non comporterebbe tra l'altro di doversi sporcare le mani? In questo romanzo del Verga, da alcuni ritenuto il suo capolavoro, proprio da tale oggettiva e irresolubile dissociazione emergono tutto il pathos della vicenda e la statura tragica del protagonista, assieme alla lucida e amara constatazione di quanto sia fatalmente spietata una società fondata sulla logica dell'avere invece che su quella dell'essere.",
+    "Genres": [
+      "Classics",
+      "Italian Literature",
+      "Fiction",
+      "Italy",
+      "Novels",
+      "Literature",
+      "School"
+    ]
+  },
+  {
+    "id": 40,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335641563i/1813307.jpg",
+    "title": "Il giorno del giudizio",
+    "Author": "Salvatore Satta",
+    "price": 8.99,
+    "rating": 4.20,
+    "description": "Epico e visionario, il romanzo della Sardegna, isola di «demoniaca tristezza». Un'opera capitale della letteratura italiana contemporanea, tradotto in diciassette lingue. «Uno dei capolavori della solitudine e della letteratura moderna» (George Steiner).",
+    "Genres": [
+      "Fiction",
+      "Italy",
+      "Italian Literature",
+      "Classics",
+      "Novels",
+      "Literature",
+      "20th Century"
+    ]
+  },
+  {
+    "id": 41,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327904364i/83017.jpg",
+    "title": "The Tartar Steppe",
+    "Author": "Dino Buzzati",
+    "price": 8.99,
+    "rating": 4.21,
+    "description": "Often likened to Kafka's The Castle, The Tartar Steppe is both a scathing critique of military life and a meditation on the human thirst for glory. It tells of young Giovanni Drogo, who is posted to a distant fort overlooking the vast Tartar steppe. Although not intending to stay, Giovanni suddenly finds that years have passed, as, almost without his noticing, he has come to share the others' wait for a foreign invasion that never happens. Over time the fort is downgraded and Giovanni's ambitions fade until the day the enemy begins massing on the desolate steppe...",
+    "Genres": [
+      "Fiction",
+      "Classics",
+      "Italian Literature",
+      "Italy",
+      "Literature",
+      "Novels",
+      "Magical Realism"
+    ]
+  },
+  {
+    "id": 42,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1318232390i/12840366.jpg",
+    "title": "Baudolino",
+    "Author": "Umberto Eco",
+    "price": 0.00,
+    "rating": 3.80,
+    "description": "It is April 1204, and Constantinople, the splendid capital of the Byzantine Empire, is being sacked and burned by the knights of the Fourth Crusade. Amid the carnage and confusion, one Baudolino saves a historian and high court official from certain death at the hands of the crusading warriors and proceeds to tell his own fantastical story.",
+    "Genres": [
+      "Fiction",
+      "Historical Fiction",
+      "Fantasy",
+      "Literature",
+      "Italian Literature",
+      "Historical",
+      "Italy"
+    ]
+  },
+  {
+    "id": 43,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349005956i/1658360.jpg",
+    "title": "The Red Horse",
+    "Author": "Eugenio Corti",
+    "price": 21.95,
+    "rating": 4.29,
+    "description": "Eugenio Corti A literary phenomenon in Italy, The Red Horse a European bast-seller, was voted the best Italian novel of the decade in a public survey. Its success had gone far beyond Italy, as the book has been translated into Spanish, French, Japanese and three other languages. This epic historical novel about World War II and after, written from the author's own personal experiences as an Italian Freedom Fighter, is a profoundly moving account of the war, those who fought in it on both sides, and the effects the war had on families in the author's hometown in Italy. On a wider scale, it is a faithful witness to the actual events of the war - including the role of historical personages who appear, the Russian campaign, the Nazi barbarism, the Communist gulag, the North Italian resistance, and political life in the two decades following the war. This world, filled with powerful personalities, drama and clashing armies, bathes in the light of the truth. What makes this truly historical novel, with its epic scope, a masterpiece is the underlying spiritual dimensions of the protagonist, his family and friends, which illuminates the ongoing tragedy of the war and its aftermath. In the end, it is a story of faith and hope in a world reduced to barbarism and cruelty. Born in 1921 in Lombardy, Eugenio Corti joined the Italian Freedom Fighters. From his experiences of the tragic retreat from Russia, Corti wrote a fascinating chronicle, Most Did Not Return, and a book about the Italian Freedom Fighters, The Last Soldiers of the King.",
+    "Genres": [
+      "Fiction",
+      "Historical Fiction",
+      "War",
+      "World War II",
+      "Classics",
+      "Italy",
+      "Historical"
+    ]
+  },
+  {
+    "id": 44,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316638125i/229398.jpg",
+    "title": "The Poetry of Petrarch",
+    "Author": "Francesco Petrarca",
+    "price": 11.99,
+    "rating": 3.98,
+    "description": "'David Young's version of Petrarch will refresh our images of the West's crucial lyric poet. We are given a Petrarch in our own vernacular, with echoes of Wyatt, Shakespeare, and many who come after.' --Harold Bloom",
+    "Genres": [
+      "Poetry",
+      "Classics",
+      "Italian Literature",
+      "Italy",
+      "Literature",
+      "Fiction",
+      "Medieval"
+    ]
+  },
+  {
+    "id": 45,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388594061i/1158380.jpg",
+    "title": "History",
+    "Author": "Elsa Morante",
+    "price": 10.99,
+    "rating": 4.30,
+    "description": "Ambientato a Roma dal 1941 al 1947, il romanzo è un grande affresco corale che racconta gli orrori della guerra e della storia, 'questo scandalo che dura da duemila anni'. Al centro, le disgraziate vicende della maestrina Iduzza Ramundo, vedova mite e rassegnata, e del figlio Useppe, pischelletto dai grandi occhi azzurri spalancati sul mondo. Pubblicato nel 1974, ottenne un enorme successo e infiammò violente polemiche, diventando immediatamente un caso politico e letterario. Dal romanzo è tratto il film omonimo, diretto da Luigi Comencini e interpretato da Claudia Cardinale.",
+    "Genres": [
+      "Fiction",
+      "Italian Literature",
+      "Italy",
+      "Historical Fiction",
+      "Classics",
+      "War",
+      "Novels"
+    ]
+  },
+  {
+    "id": 46,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1175637599i/540422.jpg",
+    "title": "Vita Nuova",
+    "Author": "Dante Alighieri",
+    "price": 9.99,
+    "rating": 3.88,
+    "description": "Vita Nuova (1292-94) is regarded as one of Dante's most profound creations. The thirty-one poems in the first of his major writings are linked by a lyrical prose narrative celebrating and debating the subject of love. Composed upon Dante's meeting with Beatrice and the 'Lord of Love,'' it is a love story set to the task of confirming the 'new life' inspired by this meeting. With a critical introduction and explanatory notes, this is a new translation of a supreme work which has been read variously as biography, religious allegory, and a meditation on poetry itself.",
+    "Genres": [
+      "Poetry",
+      "Classics",
+      "Italian Literature",
+      "Fiction",
+      "Literature",
+      "Italy",
+      "Romance"
+    ]
+  },
+  {
+    "id": 47,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1729178445i/15784007.jpg",
+    "title": "Adone",
+    "Author": "Giambattista Marino",
+    "price": 2.99,
+    "rating": 3.94,
+    "description": "'È del poeta il fin la meraviglia', affermava Giovan Battista Marino, e veramente è fonte di meraviglia l''Adone', il maggior manifesto poetico del barocco italiano ed europeo. Nella favola di Adone, antieroe passivo e femmineo, negazione dell'eroe forte e coraggioso, in un divertito e continuo rovesciamento si mescolano e insieme si negano tutti i generi tradizionali, dalla favola mitologica al poema cavalleresco, al romanzo d'avventura. E nell'esile storia del giovinetto amato da Venere e ucciso da un cinghiale si innestano come in un caleidoscopio innumerevoli digressioni e straordinarie prove di virtuosismo poetico, in cui Marino trasfuse tesori di poesia attinti da un'infinita selva di autori antichi e moderni, ripresi, contaminati, variati. L''Adone' è un poema che creò da sé le sue regole dettando un nuovo modello alla poesia della sua epoca perché, come affermava l'autore, 'la vera regola è saper rompere le regole a tempo e luogo, accomodandosi al costume corrente e al gusto del secolo'.",
+    "Genres": [
+      "Poetry",
+      "Italian Literature"
+    ]
+  },
+  {
+    "id": 48,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1717144656i/756484.jpg",
+    "title": "Orlando Innamorato: Orlando in Love",
+    "Author": "Matteo Maria Boiardo",
+    "price": 8.99,
+    "rating": 3.90,
+    "description": "Like Ariosto's Orlando Furioso and Tasso's Jerusalem Delivered, Boiardo's chivalric stories of lords and ladies first entertained the culturally innovative court of Ferrara in the Italian Renaissance. Inventive, humorous, inexhaustible, the story recounts Orlando's love-stricken pursuit of 'the fairest of her Sex, Angelica' (in Milton's terms) through a fairyland that combines the military valors of Charlemagne's knights and their famous horses with the enchantments of King Arthur's court. Today it seems more than ever appropriate to offer a new, unabridged edition of Boiardo's Orlando Innamorato, the first Renaissance epic about the common customs of, and the conflicts between, Christian Europe and Islam. Having extensively revised his earlier translation for general readers, Charles Ross has added headings and helpful summaries to Boiardo's cantos. Tenses have been regularized, and terms of gender and religion have been updated, but not so much as to block the reader's encounter with how Boiardo once viewed the world. Charles Stanley Ross has degrees from Harvard College and the University of Chicago and teaches English and comparative literature at Purdue University. 'Neglect of Italian romances robs us of a whole species of pleasure and narrows our very conception of literature. It is as if a man left out Homer, or Elizabethan drama, or the novel. For like these, the romantic epic of Italy is one of the great trophies of the European genius: a genuine kind, not to be replaced by any other, and illustrated by an extremely copious and brilliant production. It is one of the successes, the undisputed achievements.' -C. S. Lewis",
+    "Genres": [
+      "Poetry",
+      "Classics",
+      "Italian Literature",
+      "Fiction",
+      "Fantasy",
+      "15th Century",
+      "Epic"
+    ]
+  },
+  {
+    "id": 49,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657549081i/67141.jpg",
+    "title": "Contempt",
+    "Author": "Alberto Moravia",
+    "price": 10.99,
+    "rating": 3.95,
+    "description": "Contempt is a brilliant and unsettling work by one of the revolutionary masters of modern European literature. All the qualities for which Alberto Moravia is justly famous ~~ his cool clarity of expression, his exacting attention to psychological complexity and social pretension, his still-striking openness about sex—are evident in this story of a failing marriage. Contempt (which was to inspire Jean-Luc Godard’s no-less-celebrated film) is an unflinching examination of desperation and self-deception in the emotional vacuum of modern consumer society.",
+    "Genres": [
+      "Fiction",
+      "Italian Literature",
+      "Italy",
+      "Classics",
+      "Literature",
+      "Novels",
+      "20th Century"
+    ]
+  },
+  {
+    "id": 50,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1471805624i/26212682.jpg",
+    "title": "De geniale vriendin",
+    "Author": "Elena Ferrante",
+    "price": 13.99,
+    "rating": 4.05,
+    "description": "Lila en Elena groeien samen op in een volkswijk in het Napels van de jaren vijftig, een tijd waarin het ondenkbaar is dat meisjes hun tijd verspillen met leren. De intelligente Lila moet van school om te gaan werken. Ze probeert aan haar milieu te ontsnappen door jong te trouwen. Haar beste vriendin Elena mag wél verder leren, maar beseft maar al te goed hoeveel slimmer Lila is. En mooier.",
+    "Genres": [
+      "Fiction",
+      "Historical Fiction",
+      "Italy",
+      "Literary Fiction",
+      "Audiobook",
+      "Italian Literature",
+      "Contemporary"
     ]
   }
 ]
