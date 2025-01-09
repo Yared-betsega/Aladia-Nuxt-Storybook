@@ -1,6 +1,5 @@
 <template>
   <div class="flex justify-center gap-4">
-    <Label forId="Select" text="Genre"></Label>
     <Select id="Select" :states="props.states" :updateGenres="props.updateGenres"> </Select>
   </div>
 </template>
