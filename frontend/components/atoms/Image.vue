@@ -1,5 +1,5 @@
 <template>
-  <img :src="src" :alt="alt" :class="imageClass"/>
+  <img :src="src" :alt="alt" :class="imageClass" />
 </template>
 
 <script>
@@ -15,16 +15,16 @@ export default {
     },
     variant: {
       type: String,
-      default: "Product"
-    }
+      default: "Product",
+    },
   },
   computed: {
     imageClass() {
       return {
         "h-52 object-contain": this.variant === "Product",
-        "h-20 object-contain": this.variant === "Logo"
-      }
-    }
-  }
+        "h-10 md:h-14 2xl:h-20 object-contain": this.variant === "Logo",
+      };
+    },
+  },
 };
 </script>

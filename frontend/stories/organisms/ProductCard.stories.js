@@ -5,7 +5,9 @@ export default {
     component: ProductCard,
     tags: ["autodocs"],
     argTypes: {
-        book: { control: "book" },
+        variant: {
+            control: { type: "select", options: ["default", "inline", "block"] },
+        },
     }
 };
 
