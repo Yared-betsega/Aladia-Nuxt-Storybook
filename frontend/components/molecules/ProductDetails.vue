@@ -5,9 +5,10 @@
       size="lg"
       heading-class="text-white  font-bold mb-2"
     />
-    <Text class="text-sm text-gray-600">{{ description }}</Text>
     <Text class="text-sm text-gray-600">{{ author }}</Text>
-    <Text class="text-sm text-gray-600">${{ price }}</Text>
+    <Text class="text-sm text-gray-600">{{ description }}</Text>
+    <GenreList :genres="genres" />
+    <Button class="text-sm text-gray-600">Add to Cart ${{ price }}</Button>
   </div>
 </template>
 
@@ -26,6 +27,10 @@ export default {
     },
     author: {
       type: String,
+      required: true,
+    },
+    genres: {
+      type: Array,
       required: true,
     },
     price: {

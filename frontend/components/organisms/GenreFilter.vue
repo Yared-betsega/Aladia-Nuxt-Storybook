@@ -1,6 +1,6 @@
 <template>
   <div>
-    <FilterSelectDropdown :states="props.states"></FilterSelectDropdown>
+    <FilterSelectDropdown :states="props.states" :updateGenres="props.updateGenres"></FilterSelectDropdown>
   </div>
 </template>
 
@@ -8,6 +8,7 @@
 const props = withDefaults(
   defineProps<{
     states: string[];
+    updateGenres: (newGenres: string[]) => void;
   }>(),
   {
     states: () => [],

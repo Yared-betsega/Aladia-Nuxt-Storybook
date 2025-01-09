@@ -1,7 +1,7 @@
 <template>
-  <p :class="buttonClass" @click="handleClick">
+  <button :class="buttonClass" @click="handleClick">
     <slot></slot>
-  </p>
+  </button>
 </template>
 
 <script>

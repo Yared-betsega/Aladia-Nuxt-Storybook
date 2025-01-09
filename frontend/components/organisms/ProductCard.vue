@@ -13,6 +13,7 @@
           :description="book?.description"
           :author="book?.Author"
           :price="book?.price"
+          :genres="book?.Genres"
         ></ProductDetails>
       </div>
     </div>

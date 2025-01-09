@@ -2,7 +2,7 @@
   <div>
     <Header></Header>
     <div class="w-full flex justify-center">
-      <GenreFilter :states="props.states"></GenreFilter>
+      <GenreFilter :states="props.states" :updateGenres="props.updateGenres"></GenreFilter>
     </div>
 
     <slot></slot>
@@ -15,6 +15,7 @@
 const props = withDefaults(
   defineProps<{
     states: string[];
+    updateGenres: (newGenres: string[]) => void;
   }>(),
   {
     states: () => [],
